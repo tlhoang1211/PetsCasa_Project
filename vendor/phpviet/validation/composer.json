@@ -1,0 +1,43 @@
+{
+    "name": "phpviet/validation",
+    "description": "Thư viện hổ trợ kiểm tra dữ liệu đặc thù trong nước",
+    "keywords": [
+        "phpviet",
+        "validation"
+    ],
+    "homepage": "https://github.com/phpviet/validation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vuong Xuong Minh",
+            "email": "vuongxuongminh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "mlocati/ip-lib": "^1.7",
+        "respect/validation": "^1.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~7.5",
+        "scrutinizer/ocular": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPViet\\Validation\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PHPViet\\Validation\\Tests\\": "tests"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+	}
+}

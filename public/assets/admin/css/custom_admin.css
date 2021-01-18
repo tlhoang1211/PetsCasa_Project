@@ -1,0 +1,69 @@
+.content {
+    margin-top: 70px;
+}
+
+.table td:not(:first-child), .table th {
+    vertical-align: middle;
+}
+
+.ck-editor__editable_inline {
+    min-height: 175px;
+    margin-bottom: 5%;
+}
+
+.btn {
+    color: #000;
+}
+
+.btn-table {
+    width: 70px;
+    text-align: center;
+}
+
+.btn-custom {
+    width: 50px;
+    height: 25px;
+    align-self: center;
+}
+
+.form-filter {
+    margin: 10px !important;
+    align-self: center;
+}
+
+.ck.ck-reset.ck-editor.ck-rounded-corners {
+    width: 50%;
+}
+
+.ellipsis {
+    width: 300px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.modal-header .close {
+    z-index: 2;
+}
+
+.custom-detail-title {
+    font-size: 21px;
+    white-space: pre-wrap;
+    text-align: left;
+    color: green;
+}
+
+.box {
+    display: inline-flex;
+}
+
+.box > .d-flex {
+    margin: 0 10px;
+}
+
+.casa-alert {
+    position: fixed;
+    top: 80px;
+    right: 10px;
+}
