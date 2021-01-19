@@ -87,9 +87,9 @@
             color: #ff8500;
         }
 
-        iframe {
-            width: 0;
-        }
+        /*iframe {*/
+        /*    width: 0;*/
+        /*}*/
     </style>
 
     @yield('specific_css')

@@ -45,7 +45,7 @@
                     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSem9SJuzxZtdvmk_JHPIyaltpVc2DkhwYtUOotB7fh9ikWpxQ/viewform?embedded=true"
                             width="640" height="1092" frameborder="0" marginheight="0" marginwidth="0">Loading…
                     </iframe>
-                    <!-- /contact)form-->
+                    <!-- /contact-form-->
                 </div>
                 <!-- /contact-info-->
                 <div class="col-lg-6 offset-lg-1 h-50 card bg-secondary res-margin ">
